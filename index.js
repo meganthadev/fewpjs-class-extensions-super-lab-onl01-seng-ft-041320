@@ -13,6 +13,10 @@ class Deciduous extends Tree {
     super(species);
     this.name = name
   }
+  
+  static definition(){
+    
+  }
 }
 
 class Evergreen extends Tree {
